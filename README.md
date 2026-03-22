@@ -44,14 +44,16 @@ In this phase I visualized the cleaned Himalayan expedition data using Matplotli
 
 <img src="https://github.com/akisavujel/Himalayan-Expedition-/blob/c57f60352b97c5829600229fb63d1605e00ac570/EDA-Dashboard.png" width="900"/>
 
-## Phase 6 — Hypothesis Testing 
+## Phase 6 — Hypothesis Testing
+
+I tested whether oxygen use significantly affects the highpoint reached by climbers. Using a T-Test from Scipy I split the data into two groups climbers who used oxygen and those who did not and compared their average highpoints to determine if the difference was statistically significant.
 
 ## Phase 7 — SQL Analysis
 
-## Phase 8 - Feature Engineering
+## Phase 8 - Dashboard
 
-## Phase 9 — Machine Learning
+## Phase 9 — Feature Engineering 
 
-## Phase 10 — Dashboard
+## Phase 10 — Machine Learning Prediction
 
 ## Phase 11 — Share & Reports 
