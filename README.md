@@ -40,15 +40,25 @@ In this phase I visualized the cleaned Himalayan expedition data using Matplotli
 
 In this phase I visualized the cleaned Himalayan expedition data using Matplotlib and Seaborn. I created a dashboard with 4 charts showing the most climbed years, favorite climbing season, group size statistics and the most popular peaks.
 
+---
+
 # Phase 6 - EDA Dashboard
 
 <img src="https://github.com/akisavujel/Himalayan-Expedition-/blob/c57f60352b97c5829600229fb63d1605e00ac570/EDA-Dashboard.png" width="900"/>
+
+---
 
 ## Phase 6 — Hypothesis Testing
 
 I tested whether oxygen use significantly affects the highpoint reached by climbers. Using a T-Test from Scipy I split the data into two groups climbers who used oxygen and those who did not and compared their average highpoints to determine if the difference was statistically significant.
 
-## Phase 7 — SQL Analysis
+---
+
+## Phase 6 — SQL Analysis
+
+In this phase I created a database in MySQL, imported the cleaned dataset and wrote 6 queries to find the top peaks by highpoint, most successful and unsuccessful expeditions, most dangerous peaks, most visited peaks and average deaths per season.
+
+---
 
 ## Phase 8 - Dashboard
 
