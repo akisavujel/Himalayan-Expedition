@@ -60,10 +60,17 @@ In this phase I created a database in MySQL, imported the cleaned dataset and wr
 
 ---
 
-## Phase 8 - Dashboard
+## Phase 8 - Tableau Dashboard
+<img src="https://cdn.phototourl.com/free/2026-03-27-b72b27ac-d143-4ebb-b3c8-ad1b3976a4c2.png" width="900"/>
+
+---
 
 ## Phase 9 — Feature Engineering 
 
+---
+
 ## Phase 10 — Machine Learning Prediction
+
+---
 
 ## Phase 11 — Share & Reports 
