@@ -72,7 +72,7 @@ I created new features like total_people and staff_ratio to capture team composi
 
 ---
 
-## Phase 10 — Machine Learning Prediction
+## Phase 10 — Prediction With Scikit-learn
 
  Using the processed data, a Logistic Regression model was trained to predict expedition success. The model was evaluated with accuracy and a confusion matrix, allowing us to estimate the likelihood of success based on team, season, oxygen use, and peak name.
 
