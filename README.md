@@ -61,15 +61,20 @@ In this phase I created a database in MySQL, imported the cleaned dataset and wr
 ---
 
 ## Phase 8 - Tableau Dashboard
+
 <img src="https://cdn.phototourl.com/free/2026-03-27-b72b27ac-d143-4ebb-b3c8-ad1b3976a4c2.png" width="900"/>
 
 ---
 
 ## Phase 9 — Feature Engineering 
 
+I created new features like total_people and staff_ratio to capture team composition, and converted categorical variables like season and peak_name into numeric formats suitable for modeling. These steps help the model understand key factors affecting expedition outcomes.
+
 ---
 
 ## Phase 10 — Machine Learning Prediction
+
+ Using the processed data, a Logistic Regression model was trained to predict expedition success. The model was evaluated with accuracy and a confusion matrix, allowing us to estimate the likelihood of success based on team, season, oxygen use, and peak name.
 
 ---
 
